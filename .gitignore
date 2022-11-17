@@ -1,0 +1,8 @@
+# NPM packages folder.
+node_modules/
+# ignore json files in utils
+src/common/config/*.json
+dist/
+.DS_Store
+.env
+.vscode
